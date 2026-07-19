@@ -50,9 +50,9 @@ See [`DECISIONS.md`](DECISIONS.md) for a running log of key judgment calls made 
 
 ---
 
-## Tools
+## Skills Demonstrated
 
-**R**, using the `tidyverse`, `lubridate`, and `janitor` packages.
+R, using multi-source .csv management (read_csv, glimpse, n_distinct), data cleaning with the tidyverse and janitor (deduplication, missing-value audits, column drops), date/time standardization with lubridate, derived-column flagging, multi-table joins (inner_join) across daily activity and sleep data, grouped aggregation and summary statistics (group_by/summarize, mean, summary), and correlation analysis.
 
 ---
 
