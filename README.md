@@ -6,20 +6,15 @@
 
 ## Project Overview
 
-Bellabeat is a high-tech manufacturer of health-focused smart products for women. The company has grown in the wellness tech space with products including the **Leaf** tracker, **Time** watch, **Spring** water bottle, and the **Bellabeat app**.
+Bellabeat is a high-tech manufacturer of health-focused smart products for women. The company has grown in the wellness tech space with products including the Leaf tracker, Time watch, Spring water bottle, and the Bellabeat app.
 
-Bellabeat's cofounder and Chief Creative Officer, Urška Sršen, believes that analyzing smart device fitness data from consumers could reveal untapped opportunities for growth. This project follows the full data analysis process to turn that idea into actionable marketing recommendations.
+Bellabeat's cofounder believes that analyzing smart device fitness data from consumers could reveal untapped opportunities for growth. This project follows the full data analysis process to turn that idea into actionable marketing recommendations.
 
 ---
 
 ## Business Task
 
-Analyze smart device usage data from a public FitBit dataset to uncover trends in how consumers use non-Bellabeat wearable devices. Apply those trends to Bellabeat's customer base and use the insights to generate high-level marketing recommendations for **[one Bellabeat product — to be selected in the Analyze phase]**.
-
-### Guiding Questions
-1. What are some trends in smart device usage?
-2. How could these trends apply to Bellabeat customers?
-3. How could these trends help influence Bellabeat's marketing strategy?
+Analyze smart device usage data from a public FitBit dataset to uncover trends in how consumers use non-Bellabeat wearable devices. Apply those trends to Bellabeat's customer base and use the insights to generate high-level marketing recommendations for the Time watch.
 
 ---
 
@@ -63,6 +58,6 @@ See [`DECISIONS.md`](DECISIONS.md) for a running log of key judgment calls made 
 
 ## Data Source
 
-[FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) (CC0: Public Domain, made available via Mobius) — personal fitness tracker data from FitBit users, including daily, hourly, and minute-level activity, heart rate, and sleep monitoring.
+[FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) (CC0: Public Domain, made available via Mobius) — personal fitness tracker data from 33 FitBit users. This analysis uses daily activity, hourly steps, hourly intensity, sleep, and weight log data; minute-level files and heart rate data were excluded (see `DECISIONS.md`).
 
 ---
