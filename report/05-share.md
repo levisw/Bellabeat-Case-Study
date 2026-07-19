@@ -2,7 +2,7 @@
 
 ## Audience & Approach
 
-The audience is the Bellabeat executive team, who need high-level, decision-ready insight rather than statistical detail. Each visualization below is built around a single takeaway, with the supporting number called out directly on the chart so it stands on its own outside of this document (e.g. in a slide deck).
+The audience is the Bellabeat executive team, who need high-level, decision-ready insight. Each visualization below is built around a single takeaway, with the supporting number directly on the chart so it stands on its own.
 
 ## Activity Is Inconsistent Across the Week
 

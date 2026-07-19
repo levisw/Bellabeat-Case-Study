@@ -18,7 +18,7 @@ See [`analysis/04-analyze.R`](../analysis/04-analyze.R) for the full code. All s
 
 ## Sedentary Lifestyle and Sleep Relationship
 
-Total steps barely correlate with sleep duration ,r = -0.19, but sedentary minutes have a much stronger negative correlation with sleep r = -0.60. In other words, how much of the day someone spends inactive tracks with worse sleep more than how active they are tracks with better sleep. 
+Total steps barely correlate with sleep duration, r = -0.19, but sedentary minutes have a much stronger negative correlation with sleep, r = -0.60. In other words, how much of the day someone spends inactive tracks with worse sleep more than how active they are tracks with better sleep. 
 
 ## Product Selection
 

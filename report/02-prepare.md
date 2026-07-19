@@ -9,7 +9,7 @@
 The download contains two separate export folders, split by date range:
 
 | Folder | Date Range | Days |
-|---|---|---|---|
+|---|---|---|
 | `mturkfitbit_export_3.12.16-4.11.16` | Mar 12 – Apr 12, 2016 | 11 days |
 | `mturkfitbit_export_4.12.16-5.12.16` | Apr 12 – May 12, 2016 | 31 days |
 
